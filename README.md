@@ -1,0 +1,1 @@
+# Real-Time-Energy-Efficient-Scheduling-of-DAG-Tasks-in-Heterogeneous-Multi-Core-Platform
